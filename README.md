@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a flashcard site for learning basic JavaScript and jQuery. The user can click on a flashcard to see the definition of a term or concept. The user can also flip the card back over to test their knowledge.
+This is a flashcard site for learning basic JavaScript and jQuery. The user can click on a flashcard to see the definition of a term or a concept. The user can also hide the definition back to test their knowledge.
 
 ## Setup/Installation Requirements
 
